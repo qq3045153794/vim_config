@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/xietao/git/TinyRenderer/vendor/assimp_ubuntu'
+let g:netrw_dirhist_9='/home/xietao/git/TinyRenderer/vendor'
+let g:netrw_dirhist_8='/home/xietao/git/TinyRenderer'
+let g:netrw_dirhist_7='/home/xietao'
+let g:netrw_dirhist_6='/home/xietao/git/TinyRenderer/src/asset'
+let g:netrw_dirhist_5='/home/xietao/git/TinyRenderer/src'
+let g:netrw_dirhist_4='/home/xietao/git/TinyRenderer'
+let g:netrw_dirhist_3='/home/xietao/git/TinyRenderer/src/examples'
+let g:netrw_dirhist_2='/home/xietao/git/TinyRenderer/src'
+let g:netrw_dirhist_1='/home/xietao/git/TinyRenderer'
